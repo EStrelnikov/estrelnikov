@@ -1,6 +1,4 @@
-# Hello, I'm Evgeny 👋
 ## Frontend developer
-___
 ### 💻 Tech Stack:
 
 <img alt="html5" src="https://img.shields.io/badge/html-F6843F.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
